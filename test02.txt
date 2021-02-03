@@ -1,1 +1,3 @@
 I am adding this from the browser b/c I am having security issues trying to commit from SourceTree on my desktop.
+----
+Having done some upgrades and fiddling, let's see how we do now...
