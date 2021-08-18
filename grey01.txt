@@ -1,5 +1,0 @@
-Hello. I am not terribly facile with Git, but I think I managed to get this repository connected to my account via SourceTree. ;-)
----------------------
-Well, not working with SourceTree yet, but managed to do an update from the Terminal window.
-
-Hmm. Let's try again.
