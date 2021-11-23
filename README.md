@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[Placeholder link](www.youtube.com/URL)
+[YouTube](https://bit.ly/30yLR5Q)
 
 ### Related products <Other books you may enjoy>
 * Blender 3D By Example - Second Edition [[Packt]](https://www.packtpub.com/product/blender-3d-by-example-second-edition/9781789612561) [[Amazon]](https://www.amazon.com/dp/178961256X)
