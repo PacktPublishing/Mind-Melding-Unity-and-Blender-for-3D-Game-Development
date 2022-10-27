@@ -66,3 +66,7 @@ Click on the following link to see the Code in Action:
 is a native New Yorker who started making games by typing in source code from magazines (that used to be a thing!). He is a former Creative Director (Digital) of Sesame Workshop where he would boss around Elmo and Big Bird. After that, he co-founded Electric Funstuff and for 15 years developed game ideas for companies like Scholastic, Sony, and Lego. Spencer Grey is definitely not related to the grey aliens stored in Area 51. Definitely not. No way.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801071550">https://packt.link/free-ebook/9781801071550 </a> </p>
