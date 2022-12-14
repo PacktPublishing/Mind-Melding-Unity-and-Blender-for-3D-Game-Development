@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801071550)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Mind-Melding Unity and Blender for 3D Game Development
 
 <a href="https://www.packtpub.com/product/mind-melding-unity-and-blender-for-3d-game-development/9781801071550"><img src="https://static.packt-cdn.com/products/9781801071550/cover/smaller" alt="Mind-Melding Unity and Blender for 3D Game Development" height="256px" align="right"></a>
